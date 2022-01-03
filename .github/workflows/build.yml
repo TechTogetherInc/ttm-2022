@@ -3,7 +3,7 @@ name: Build Eleventy
 on:
   push:
     branches:
-      - master
+      - ttm-2022
 
 jobs:
   build:
