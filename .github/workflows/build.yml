@@ -1,4 +1,4 @@
-name: Build Eleventy
+name: ttm-2022-build-eleventy-site
 
 on:
   push:
