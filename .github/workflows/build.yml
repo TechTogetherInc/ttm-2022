@@ -31,3 +31,7 @@ jobs:
         with:
           publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post-deploy
+        run: |
+          cp CNAME ./_site/
