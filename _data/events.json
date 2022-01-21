@@ -1,37 +1,66 @@
 {
-  "Friday": [
+  "Thursday": [
     {
-      "name": "Opening Ceremony",
-      "host": "TT Miami Team",
-      "startTime": "4:00pm",
-      "endTime": "5:00pm",
-      "description": "Join us to kick off the beginning of hacking for TechTogether Miami!",
+      "name": "How to Use the Cloud in Your Hackathon Project",
+      "host": "Microsoft",
+      "startTime": "6:30pm",
+      "endTime": "7:00pm",
+      "description": "I've been to a lot of hackathons, but I've never used the cloud in any of my projects. Why? Because it always seemed too complicated and scary to tackle during a hackathon.This workshop is designed to help you conquer those fears by answering the following questions: What is the cloud? How can I use it in my hackathon project? What types of projects can I create with cloud technology? What free resources are available to help me get started? What if I get stuck? Use the skills you learn in this workshop at one of TechTogether's upcoming hackathons. This workshop is co-hosted with Microsoft, TechTogether's official Cloud Partner of our 2021-2022 hackathon season.",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Beginners Guide to Hackathons",
       "host": "Rachel Quijano",
-      "startTime": "5:00pm",
-      "endTime": "5:30pm",
+      "startTime": "7:00pm",
+      "endTime": "8:00pm",
       "description": "This is what hackathons are all about!",
       "track": "",
       "trackcss": ""
     },
     {
-      "name": "Inspiration Station",
+      "name": "Team Formation #1",
       "host": "TT Miami Team",
-      "startTime": "6:00pm",
-      "endTime": "6:30pm",
-      "description": "Hackers can brainstorm ideas while looking for teammates.",
+      "startTime": "8:00pm",
+      "endTime": "9:00pm",
+      "description": "Come meet other hackers and find a team for the weekend!",
+      "track": "",
+      "trackcss": ""
+    }
+  ],
+  "Friday": [
+    {
+      "name": "Career Fair",
+      "host": "TT Miami Team",
+      "startTime": "2:00pm",
+      "endTime": "3:00pm",
+      "description": "Come learn about our sponsors opportunities",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "Opening Ceremony",
+      "host": "TT Miami Team",
+      "startTime": "4:00pm",
+      "endTime": "4:30pm",
+      "description": "Join us to kick off the beginning of hacking for TechTogether Miami!",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "Team Formation #2",
+      "host": "TT Miami Team",
+      "startTime": "5:00pm",
+      "endTime": "6:00pm",
+      "description": "Come meet other hackers and find a team for the weekend!",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Product Management Workshop",
       "host": "Cesar Villa-Garcia",
-      "startTime": "6:30pm",
-      "endTime": "7:00pm",
+      "startTime": "6:00pm",
+      "endTime": "6:30pm",
       "description": "Equip hackers with the knowledge they need to lead a team or project and thus manage it.",
       "track": "Design",
       "trackcss": "design"
@@ -39,29 +68,29 @@
     {
       "name": "Introduction to UI/UX",
       "host": "Irina Lubenskaya",
-      "startTime": "7:00pm",
-      "endTime": "8:00pm",
+      "startTime": "6:30pm",
+      "endTime": "7:30pm",
       "description": "This workshop is for hackers that want to learn tips and tricks on the designing process.",
       "track": "Design",
       "trackcss": "design"
     },
     {
+      "name": "Getting Started with Figma",
+      "host": "Kim Cruz",
+      "startTime": "7:30pm",
+      "endTime": "8:00pm",
+      "description": "This workshop is for hackers that want to learn how to use Figma to bring their design to life.",
+      "track": "Design",
+      "trackcss": "design"
+    },
+    {
       "name": "Introduction to Github",
-      "host": "May Marquez",
+      "host": "May Márquez",
       "startTime": "8:00pm",
       "endTime": "8:30pm",
       "description": "Equip hackers with the knowledge they need to collaborate on their hackathon projects.",
       "track": "",
       "trackcss": ""
-    },
-    {
-      "name": "Introduction to Web Development",
-      "host": "TBD",
-      "startTime": "8:30pm",
-      "endTime": "9:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their web dev projects.",
-      "track": "Web Development",
-      "trackcss": "webdev"
     },
     {
       "name": "Introduction to App Development",
@@ -73,10 +102,19 @@
       "trackcss": "appdev"
     },
     {
+      "name": "Introduction to Web Development",
+      "host": "Gabriela Miesner",
+      "startTime": "9:00pm",
+      "endTime": "9:30pm",
+      "description": "Equip hackers with the knowledge they need to start building their web dev projects.",
+      "track": "Web Development",
+      "trackcss": "webdev"
+    },
+    {
       "name": "Introduction to Game Development",
-      "host": "TBD",
-      "startTime": "8:30pm",
-      "endTime": "9:00pm",
+      "host": "Jose Maldonado",
+      "startTime": "9:30pm",
+      "endTime": "10:00pm",
       "description": "Equip hackers with the knowledge they need to start building their game dev projects.",
       "track": "Game Development",
       "trackcss": "gamedev"
@@ -101,7 +139,7 @@
     },
     {
       "name": "IOs Development Workshop",
-      "host": "TBD",
+      "host": "Taye Johnson",
       "startTime": "10:00pm",
       "endTime": "11:00pm",
       "description": "Equip hackers with the knowledge they need to start building their apps.",
@@ -127,6 +165,15 @@
       "trackcss": "webdev"
     },
     {
+      "name": "Getting Started with React",
+      "host": "Ralph",
+      "startTime": "11:00pm",
+      "endTime": "12:00am",
+      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
+      "track": "Web Development",
+      "trackcss": "webdev"
+    },
+    {
       "name": "Introduction to Flutter",
       "host": "Hashir Shoaib",
       "startTime": "11:00pm",
@@ -137,21 +184,12 @@
     },
     {
       "name": "Music & Sound Effects for Projects Workshop",
-      "host": "TBD",
+      "host": "Jesus Parra",
       "startTime": "11:00pm",
       "endTime": "11:30pm",
       "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
       "track": "Game Development",
       "trackcss": "gamedev"
-    },
-    {
-      "name": "Getting Started with React",
-      "host": "Ralph",
-      "startTime": "11:00pm",
-      "endTime": "12:00am",
-      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
-      "track": "Web Development",
-      "trackcss": "webdev"
     },
     {
       "name": "Introduction to Virtual Reality",
@@ -165,52 +203,16 @@
   ],
   "Saturday": [
     {
-      "name": "Networking Party",
-      "host": "TT Miami Team",
-      "startTime": "12:00am",
-      "endTime": "1:00am",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
-      "track": "",
-      "trackcss": ""
-    },
-    {
       "name": "80's Pop Culture Trivia",
-      "host": "TT Miami Team",
-      "startTime": "1:00am",
-      "endTime": "1:30am",
+      "host": "Rachel Quijano",
+      "startTime": "12:00am",
+      "endTime": "12:30am",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
       "track": "",
       "trackcss": ""
     },
     {
-      "name": "Lightning Talks",
-      "host": "TBD",
-      "startTime": "7:00am",
-      "endTime": "8:00am",
-      "description": "Bring industry experts or inspirational speakers to speak about different topics.",
-      "track": "",
-      "trackcss": ""
-    },
-    {
-      "name": "Introduction to APIs",
-      "host": "TBD",
-      "startTime": "8:00am",
-      "endTime": "8:30am",
-      "description": "Equip hackers with the opportunity to learn how to implement APIs into their future projects.",
-      "track": "Web Development",
-      "trackcss": "webdev"
-    },
-    {
-      "name": "Intro to Cloud Storage",
-      "host": "TBD",
-      "startTime": "8:30am",
-      "endTime": "9:00am",
-      "description": "Equip hackers with more in detail knowledge about cloud storage and the options available to them.",
-      "track": "Web Development",
-      "trackcss": "webdev"
-    },
-    {
-      "name": "Introduction to Machine Learning/AI",
+      "name": "Introduction to Machine Learning/Artificial Intelligence",
       "host": "Sheila Alemany",
       "startTime": "9:00am",
       "endTime": "9:30am",
@@ -219,8 +221,26 @@
       "trackcss": ""
     },
     {
+      "name": "Breaking Gender Barriers in the Space Industry",
+      "host": "TBD",
+      "startTime": "9:30am",
+      "endTime": "10:00am",
+      "description": "",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "Introduction to APIs",
+      "host": "TBD",
+      "startTime": "10:30am",
+      "endTime": "11:00am",
+      "description": "Equip hackers with the opportunity to learn how to implement APIs into their future projects.",
+      "track": "Web Development",
+      "trackcss": "webdev"
+    },
+    {
       "name": "Influencers in Tech Panel",
-      "host": "TT Miami Team",
+      "host": "Rachel and Ariane. Participants: Jalen, Antonella, Meggan",
       "startTime": "11:00am",
       "endTime": "11:30am",
       "description": "",
@@ -228,8 +248,17 @@
       "trackcss": ""
     },
     {
+      "name": "Intro to Cloud Storage",
+      "host": "TBD",
+      "startTime": "11:30am",
+      "endTime": "12:00am",
+      "description": "Equip hackers with more in detail knowledge about cloud storage and the options available to them.",
+      "track": "Web Development",
+      "trackcss": "webdev"
+    },
+    {
       "name": "Introduction to Cyber Security",
-      "host": "Adonis Sardinas",
+      "host": "Alexandria Segovia",
       "startTime": "2:00pm",
       "endTime": "2:30pm",
       "description": "Equip hackers with the opportunity to learn about cyber security.",
@@ -256,7 +285,7 @@
     },
     {
       "name": "Learning About Languages",
-      "host": "TT Miami Team",
+      "host": "Ariane Avendano",
       "startTime": "5:00pm",
       "endTime": "5:30pm",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
@@ -265,7 +294,7 @@
     },
     {
       "name": "Retro Tech Party",
-      "host": "TT Miami Team",
+      "host": "Samara Ruiz Sandoval",
       "startTime": "6:00pm",
       "endTime": "6:30pm",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
@@ -273,28 +302,19 @@
       "trackcss": ""
     },
     {
-      "name": "80's Karaoke",
+      "name": "Samara Ruiz Sandoval",
       "host": "TT Miami Team",
-      "startTime": "6:30pm",
-      "endTime": "7:00pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
-      "track": "",
-      "trackcss": ""
-    },
-    {
-      "name": "Game Night",
-      "host": "TT Miami Team",
-      "startTime": "7:00pm",
+      "startTime": "7:30pm",
       "endTime": "8:00pm",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
       "track": "",
       "trackcss": ""
     },
     {
-      "name": "Late Night Chats",
-      "host": "TT Miami Team",
-      "startTime": "8:00pm",
-      "endTime": "8:30pm",
+      "name": "Game Night",
+      "host": "Rachel Quijano",
+      "startTime": "9:00pm",
+      "endTime": "10:00pm",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
       "track": "",
       "trackcss": ""
@@ -302,55 +322,55 @@
   ],
   "Sunday": [
     {
-      "name": "Cafecito Talks",
-      "host": "TT Miami Team",
-      "startTime": "8:00am",
-      "endTime": "8:30am",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
-      "track": "",
-      "trackcss": ""
-    },
-    {
-      "name": "Interview Tips for Software Engineers",
+      "name": "How to Pitch your Project Idea",
       "host": "TBD",
-      "startTime": "9:00am",
-      "endTime": "10:00am",
+      "startTime": "12:00pm",
+      "endTime": "12:30pm",
       "description": "",
       "track": "",
       "trackcss": ""
     },
     {
-      "name": "Coding Interview Practice",
-      "host": "TBD",
-      "startTime": "10:00am",
-      "endTime": "11:00am",
-      "description": "",
-      "track": "",
-      "trackcss": ""
-    },
-    {
-      "name": "Building A Resume & Resume Tips Workshop",
-      "host": "Daniel Saleh",
-      "startTime": "11:30am",
-      "endTime": "12:30am",
-      "description": "",
+      "name": "Office Hours",
+      "host": "Rachel Quijano and Ariane Avendano",
+      "startTime": "1:00pm",
+      "endTime": "2:00pm",
+      "description": "Still have questions about your project submissions? Join our office hours so we can asnwer them!",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Project Submissions Due on Devpost",
       "host": "TT Miami Team",
-      "startTime": "1:00pm",
-      "endTime": "",
+      "startTime": "",
+      "endTime": "3:00pm",
       "description": "Two days of hacking have led up to this moment! Please make sure to have your projects submitted before this deadline.",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "Interview Prep",
+      "host": "Dianelis Insua",
+      "startTime": "4:00pm",
+      "endTime": "4:30pm",
+      "description": "",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "How to Negotiate your Job Offer",
+      "host": "Jennifer Cosenza",
+      "startTime": "5:00pm",
+      "endTime": "5:30pm",
+      "description": "",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Closing Ceremony",
       "host": "TT Miami Team",
-      "startTime": "4:00pm",
-      "endTime": "5:00pm",
+      "startTime": "7:00pm",
+      "endTime": "8:00pm",
       "description": "Celebrate your accomplishments and join us for the last gathering of the hackathon!",
       "track": "",
       "trackcss": ""
