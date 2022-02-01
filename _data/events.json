@@ -1,8 +1,8 @@
 {
   "Thursday": [
     {
-      "name": "How to Use the Cloud in Your Hackathon Project",
-      "host": "Microsoft",
+      "name": "How to Use the Cloud in Your Hackathon Project Sponsored by Microsoft",
+      "host": "Fiona Whittington",
       "startTime": "6:30pm",
       "endTime": "7:00pm",
       "description": "I've been to a lot of hackathons, but I've never used the cloud in any of my projects. Why? Because it always seemed too complicated and scary to tackle during a hackathon.This workshop is designed to help you conquer those fears by answering the following questions: What is the cloud? How can I use it in my hackathon project? What types of projects can I create with cloud technology? What free resources are available to help me get started? What if I get stuck? Use the skills you learn in this workshop at one of TechTogether's upcoming hackathons. This workshop is co-hosted with Microsoft, TechTogether's official Cloud Partner of our 2021-2022 hackathon season.",
@@ -14,13 +14,13 @@
       "host": "Rachel Quijano",
       "startTime": "7:00pm",
       "endTime": "8:00pm",
-      "description": "This is what hackathons are all about!",
+      "description": "This is what hackathons are all about! Learn how to get the most out of your hackathon experience.",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Team Formation #1",
-      "host": "TT Miami Team",
+      "host": "Rachel Quijano",
       "startTime": "8:00pm",
       "endTime": "9:00pm",
       "description": "Come meet other hackers and find a team for the weekend!",
@@ -34,7 +34,7 @@
       "host": "TT Miami Team",
       "startTime": "2:00pm",
       "endTime": "3:00pm",
-      "description": "Come learn about our sponsors opportunities",
+      "description": "Learn about all the amazing opportunities that our sponsors have to offer you!",
       "track": "",
       "trackcss": ""
     },
@@ -61,7 +61,7 @@
       "host": "Cesar Villa-Garcia",
       "startTime": "6:00pm",
       "endTime": "6:30pm",
-      "description": "Equip hackers with the knowledge they need to lead a team or project and thus manage it.",
+      "description": "Ever wondered how projects go from concept to creation? Join us as we discuss what makes a good product management strategy.",
       "track": "Design",
       "trackcss": "design"
     },
@@ -70,7 +70,7 @@
       "host": "Irina Lubenskaya",
       "startTime": "6:30pm",
       "endTime": "7:30pm",
-      "description": "This workshop is for hackers that want to learn tips and tricks on the designing process.",
+      "description": "Find out some awesome tips and tricks on how to maximize your user's experience!",
       "track": "Design",
       "trackcss": "design"
     },
@@ -79,16 +79,16 @@
       "host": "Kim Cruz",
       "startTime": "7:30pm",
       "endTime": "8:00pm",
-      "description": "This workshop is for hackers that want to learn how to use Figma to bring their design to life.",
+      "description": "Learn how to use Figma to bring your design to life and go from idea to mockup in minutes.",
       "track": "Design",
       "trackcss": "design"
     },
     {
-      "name": "Introduction to Github",
+      "name": "Introduction to Git and GitHub",
       "host": "May Márquez",
       "startTime": "8:00pm",
       "endTime": "8:30pm",
-      "description": "Equip hackers with the knowledge they need to collaborate on their hackathon projects.",
+      "description": "Equip yourself with knowledge on how to use the developer's best friends: Git and GitHub!",
       "track": "",
       "trackcss": ""
     },
@@ -97,7 +97,7 @@
       "host": "Jose Pujol",
       "startTime": "8:30pm",
       "endTime": "9:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their apps.",
+      "description": "Gain the knowledge you need to create a fully functional mobile app from scratch!",
       "track": "App Development",
       "trackcss": "appdev"
     },
@@ -106,7 +106,7 @@
       "host": "Gabriela Miesner",
       "startTime": "9:00pm",
       "endTime": "9:30pm",
-      "description": "Equip hackers with the knowledge they need to start building their web dev projects.",
+      "description": "Learn how to bring a website to life, with core knowledge that's applicable to any web project.",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -115,7 +115,7 @@
       "host": "Jose Maldonado",
       "startTime": "9:30pm",
       "endTime": "10:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their game dev projects.",
+      "description": "Love games? We do, too! Find out how to make your own at this workshop!",
       "track": "Game Development",
       "trackcss": "gamedev"
     },
@@ -124,7 +124,7 @@
       "host": "Daniel Ortiz",
       "startTime": "10:00pm",
       "endTime": "10:30pm",
-      "description": "Equip hackers with the knowledge they need to create a website using tools such as HTML and CSS.",
+      "description": "Learn critical information on how to beautify your websites with the building blocks of the web: HTML and CSS.",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -133,16 +133,16 @@
       "host": "Victor Sebastian Andrade",
       "startTime": "10:00pm",
       "endTime": "11:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their apps.",
+      "description": "Want to learn how to create apps for the largest mobile app platform? Join us for our Android Development Workshop!",
       "track": "App Development",
       "trackcss": "appdev"
     },
     {
-      "name": "IOs Development Workshop",
+      "name": "iOS Development Workshop",
       "host": "Taye Johnson",
       "startTime": "10:00pm",
       "endTime": "11:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their apps.",
+      "description": "Find out how to create beautiful apps that work seamlessly with all your favorite iOS devices!",
       "track": "App Development",
       "trackcss": "appdev"
     },
@@ -151,7 +151,7 @@
       "host": "Stephanie Castillo",
       "startTime": "10:00pm",
       "endTime": "11:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their apps.",
+      "description": "Unity is one of the most versatile free game engines available. Come learn how to leverage it to bring your game ideas to life!",
       "track": "Game Development",
       "trackcss": "gamedev"
     },
@@ -160,16 +160,16 @@
       "host": "Zackary Santana",
       "startTime": "10:30pm",
       "endTime": "11:00pm",
-      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
+      "description": "Make your websites interactive and create meaningful web experiences with JavaScript!",
       "track": "Web Development",
       "trackcss": "webdev"
     },
     {
       "name": "Getting Started with React",
-      "host": "Ralph",
+      "host": "Ralph Hernandez",
       "startTime": "11:00pm",
       "endTime": "12:00am",
-      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
+      "description": "Learn how to create flexible, powerful web apps with one of the largest JavaScript frameworks, React!",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -178,7 +178,7 @@
       "host": "Hashir Shoaib",
       "startTime": "11:00pm",
       "endTime": "11:30pm",
-      "description": "Equip hackers with the knowledge they need to start building their apps.",
+      "description": "With Flutter, you can create beautiful, cross-platform apps from a single codebase. Join us to learn how!",
       "track": "App Development",
       "trackcss": "appdev"
     },
@@ -187,7 +187,7 @@
       "host": "Jesus Parra",
       "startTime": "11:00pm",
       "endTime": "11:30pm",
-      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
+      "description": "Good sound design can make or break your project. Learn how to leverage your soundscape!",
       "track": "Game Development",
       "trackcss": "gamedev"
     },
@@ -196,7 +196,7 @@
       "host": "Raul Faife",
       "startTime": "11:30pm",
       "endTime": "12:00am",
-      "description": "Equip hackers with the knowledge they need to start building their hackathon project.",
+      "description": "Learn how to use the infinite potential of virtual reality to bring your game ideas to the next level!",
       "track": "Game Development",
       "trackcss": "gamedev"
     }
@@ -207,7 +207,7 @@
       "host": "Rachel Quijano",
       "startTime": "12:00am",
       "endTime": "12:30am",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "Need a break from hacking? Join us for some fun 80's pop culture trivia!",
       "track": "",
       "trackcss": ""
     },
@@ -216,22 +216,22 @@
       "host": "Sheila Alemany",
       "startTime": "9:00am",
       "endTime": "9:30am",
-      "description": "",
+      "description": "The power of artificial intelligence is at your fingertips. Learn how to use machine learning to supercharge your project!",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Breaking Gender Barriers in the Space Industry",
-      "host": "TBD",
+      "host": "Diana Gutierrez",
       "startTime": "9:30am",
       "endTime": "10:00am",
-      "description": "",
+      "description": "Join us as we discuss the complexities of breaking gender barriers in an overwhelmingly male industry.",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Introduction to APIs",
-      "host": "TBD",
+      "host": "Miguel Chevrez Lopez",
       "startTime": "10:30am",
       "endTime": "11:00am",
       "description": "Equip hackers with the opportunity to learn how to implement APIs into their future projects.",
@@ -240,16 +240,16 @@
     },
     {
       "name": "Influencers in Tech Panel",
-      "host": "Rachel and Ariane. Participants: Jalen, Antonella, Meggan",
+      "host": "Rachel Quijano and Ariane Avendano. Participants: Jalen Veiga, Antonella Avogadro Amadei, Meggan",
       "startTime": "11:00am",
       "endTime": "11:30am",
-      "description": "",
+      "description": "Hear from tech influencers as they discuss their experience in the tech community!",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Intro to Cloud Storage",
-      "host": "TBD",
+      "host": "Sana Abida Amin",
       "startTime": "11:30am",
       "endTime": "12:00am",
       "description": "Equip hackers with more in detail knowledge about cloud storage and the options available to them.",
@@ -269,14 +269,14 @@
       "name": "LinkedIn Tips for Students",
       "host": "Jasmine Nunez and Stephanie Nuesi",
       "startTime": "3:00pm",
-      "endTime": "3:30pm",
+      "endTime": "4:00pm",
       "description": "Help hackers build a professional LinkedIn profile that will help them land an internship. At the same time talk about the importance of networking.",
       "track": "",
       "trackcss": ""
     },
     {
       "name": "Introduction to Databases",
-      "host": "TBD",
+      "host": "Alejandro Martinez",
       "startTime": "4:00pm",
       "endTime": "4:30pm",
       "description": "Equip hackers with the opportunity to learn about databases using SQL.",
@@ -302,10 +302,19 @@
       "trackcss": ""
     },
     {
-      "name": "Samara Ruiz Sandoval",
-      "host": "TT Miami Team",
+      "name": "80s Karaoke",
+      "host": "Samara Ruiz Sandoval",
       "startTime": "7:30pm",
       "endTime": "8:00pm",
+      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "track": "",
+      "trackcss": ""
+    },
+    {
+      "name": "Introduction to Blockchain",
+      "host": "Jobin Ayathil",
+      "startTime": "8:00pm",
+      "endTime": "9:00pm",
       "description": "Let hackers destress from hacking while socializing with other hackers.",
       "track": "",
       "trackcss": ""
@@ -323,10 +332,10 @@
   "Sunday": [
     {
       "name": "How to Pitch your Project Idea",
-      "host": "TBD",
+      "host": "Terry Beltran",
       "startTime": "12:00pm",
       "endTime": "12:30pm",
-      "description": "",
+      "description": "Struggle with pitching your amazing project? Learn how to deliver your ideas effectively with us!",
       "track": "",
       "trackcss": ""
     },
@@ -349,7 +358,7 @@
       "trackcss": ""
     },
     {
-      "name": "Interview Prep",
+      "name": "Interview Prep Workshop",
       "host": "Dianelis Insua",
       "startTime": "4:00pm",
       "endTime": "4:30pm",
