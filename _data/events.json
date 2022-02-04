@@ -187,7 +187,7 @@
       "host": "Jesus Parra",
       "startTime": "11:00pm",
       "endTime": "11:30pm",
-      "description": "Good sound design can make or break your project. Learn how to leverage your soundscape!",
+      "description": "This workshop will focus on how to approach game audio from a blank slate. We will discuss the process of designing the audio aesthetic for a game: from understanding the role of audio and music in a game, to establishing a tone, to organizing assets. The workshop will include a short live demo to show the process of creating unique sound effects using modern techniques.",
       "track": "Game Development",
       "trackcss": "gamedev"
     },
@@ -234,7 +234,7 @@
       "host": "Miguel Chevrez Lopez",
       "startTime": "10:30am",
       "endTime": "11:00am",
-      "description": "Equip hackers with the opportunity to learn how to implement APIs into their future projects.",
+      "description": "Learn how to use APIs to streamline your project development and build powerful apps quickly!",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -252,7 +252,7 @@
       "host": "Sana Abida Amin",
       "startTime": "11:30am",
       "endTime": "12:00am",
-      "description": "Equip hackers with more in detail knowledge about cloud storage and the options available to them.",
+      "description": "Equip yourself with more detailed knowledge about cloud storage and the options available to you!",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -261,7 +261,7 @@
       "host": "Alexandria Segovia",
       "startTime": "2:00pm",
       "endTime": "2:30pm",
-      "description": "Equip hackers with the opportunity to learn about cyber security.",
+      "description": "Nowadays, online security is just as important as physical security. Learn how to develop secure applications!",
       "track": "",
       "trackcss": ""
     },
@@ -270,7 +270,7 @@
       "host": "Jasmine Nunez and Stephanie Nuesi",
       "startTime": "3:00pm",
       "endTime": "4:00pm",
-      "description": "Help hackers build a professional LinkedIn profile that will help them land an internship. At the same time talk about the importance of networking.",
+      "description": "Build yourself a professional LinkedIn profile that will help you land an internship, and learn some good tips for networking!",
       "track": "",
       "trackcss": ""
     },
@@ -279,7 +279,7 @@
       "host": "Alejandro Martinez",
       "startTime": "4:00pm",
       "endTime": "4:30pm",
-      "description": "Equip hackers with the opportunity to learn about databases using SQL.",
+      "description": "Expand your data storage possibilities by learning how to use SQL databases in your project!",
       "track": "Web Development",
       "trackcss": "webdev"
     },
@@ -288,7 +288,7 @@
       "host": "Ariane Avendano",
       "startTime": "5:00pm",
       "endTime": "5:30pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "Learn about different languages and how they can help you create a more well-rounded project.",
       "track": "",
       "trackcss": ""
     },
@@ -297,7 +297,7 @@
       "host": "Samara Ruiz Sandoval",
       "startTime": "6:00pm",
       "endTime": "6:30pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "Take a break from hacking for some more 80s-themed social activities like our Retro Tech Party!",
       "track": "",
       "trackcss": ""
     },
@@ -306,7 +306,7 @@
       "host": "Samara Ruiz Sandoval",
       "startTime": "7:30pm",
       "endTime": "8:00pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "Belt out your favorite 80s hits with your new hackathon buddies at our 80s Karaoke!",
       "track": "",
       "trackcss": ""
     },
@@ -315,7 +315,7 @@
       "host": "Jobin Ayathil",
       "startTime": "8:00pm",
       "endTime": "9:00pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "It's more than just a buzzword! Join us to find out how blockchain tech can help your next project.",
       "track": "",
       "trackcss": ""
     },
@@ -324,7 +324,7 @@
       "host": "Rachel Quijano",
       "startTime": "9:00pm",
       "endTime": "10:00pm",
-      "description": "Let hackers destress from hacking while socializing with other hackers.",
+      "description": "Join us for a quick break from hacking for a fun game night!",
       "track": "",
       "trackcss": ""
     }
@@ -344,7 +344,7 @@
       "host": "Rachel Quijano and Ariane Avendano",
       "startTime": "1:00pm",
       "endTime": "2:00pm",
-      "description": "Still have questions about your project submissions? Join our office hours so we can asnwer them!",
+      "description": "Still have questions about your project submissions? Join our office hours so we can answer them!",
       "track": "",
       "trackcss": ""
     },
@@ -362,7 +362,7 @@
       "host": "Dianelis Insua",
       "startTime": "4:00pm",
       "endTime": "4:30pm",
-      "description": "",
+      "description": "You've scored an interview! Now what? Join us to find out how to best prepare yourself for your big day.",
       "track": "",
       "trackcss": ""
     },
@@ -371,7 +371,7 @@
       "host": "Jennifer Cosenza",
       "startTime": "5:00pm",
       "endTime": "5:30pm",
-      "description": "",
+      "description": "Negotiating a salary can be rough. Follow the tips in this workshop to make sure you get what you're worth!",
       "track": "",
       "trackcss": ""
     },
