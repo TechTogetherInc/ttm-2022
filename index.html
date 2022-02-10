@@ -3,19 +3,41 @@ layout: default
 title: TechTogether
 ---
 
-<div class="background-above-the-fold container-fluid py-md-1 mt-5">
-    <div class="col-8 offset-2 col-md-4 offset-md-4 py-5">
-        <div id="ttm-promo">
-            <img class="ttm-promo" src="imgs/ttm-promo.svg" alt="TechTogether Miami"/> 
+<div class="background-above-the-fold py-md-1 mt-5">
+    <div class="container-fluid">
+        <div class="col-8 offset-2 col-md-4 offset-md-4 pt-5">
+            <div id="ttm-promo">
+                <img class="ttm-promo" src="imgs/ttm-promo.svg" alt="TechTogether Miami"/> 
+            </div>
+            <div id="ttm-date-time-location">
+                <img class="ttm-date-time-location" src="imgs/ttm-date-time-location.svg" alt="Event is being hosted out of Miami, FL from February 11, 2022 to February 13, 2022"/> 
+            </div>
         </div>
-        <div id="ttm-date-time-location">
-            <img class="ttm-date-time-location" src="imgs/ttm-date-time-location.svg" alt="Event is being hosted out of Miami, FL from February 11, 2022 to February 13, 2022"/> 
-        </div>
-        <div id="register-button" class="pe-4">
-            <a href="https://www.eventbrite.com/e/techtogether-miami-tickets-166261090397"
+    </div>
+    <div class="row pe-4 pb-5 pt-2">
+        <div class="col-8 offset-2 col-md-2 offset-md-3 mb-2">
+            <a href="https://techtogether-miami.devpost.com/"
             target="_blank">
-                <button type="button" class="btn">
-                    Register Now!
+                <button type="button" class="btn btn-above-the-fold btn-red">
+                    Submit Project
+                </button>
+            </a>
+        </div>
+
+        <div class="col-8 offset-2 col-md-2 offset-md-0 mb-2">
+            <a href="https://techtogether-miami.devpost.com/#prizes"
+            target="_blank">
+                <button type="button" class="btn btn-above-the-fold btn-yellow">
+                    View Challenges
+                </button>
+            </a>
+        </div>
+        
+        <div class="col-8 offset-2 col-md-2 offset-md-0 mb-2">
+            <a href="https://drive.google.com/drive/folders/1_VGrh98tw6Pv61KV0Y8ruvs4Raa-GY9b?usp=sharing"
+            target="_blank">
+                <button type="button" class="btn btn-above-the-fold btn-cyan">
+                    Event Recordings
                 </button>
             </a>
         </div>
@@ -65,14 +87,6 @@ title: TechTogether
             {% include getinvolved.html %}
         </div>
     </section>
-
-    <!-- Challenges Section
-    <section class="pb-5">
-        <h1 id="Challenges">CHALLENGES</h1> 
-        <div class="container">
-            {% include challenges.html %}
-        </div>
-    </section>-->
 
     <!-- FAQs -->
     <section class="pb-5">
