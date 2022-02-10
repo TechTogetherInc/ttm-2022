@@ -1,4 +1,5 @@
-<div class="container">
+<div class="container pb-5">
+  <h1 id="Sponsors">NATIONAL SPONSORS</h1> 
   <div class="row justify-content-center">
     <!-- 
             To add more sponsors, just add their name and website URL to sponsors.json ,
@@ -11,6 +12,29 @@
       <a href="{{ sponsor[1] }}" target="_blank">
         <img class="sponsor-img" src="imgs/sponsors/{{ sponsor[0] }}.svg" alt="{{ sponsor[0] }}"/>
       </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<h1 id="Sponsors">LOCAL SPONSORS</h1> 
+<div class="container">
+  <div class="row justify-content-center">
+    <!-- 
+            To add more sponsors, just add their name and website URL to sponsors.json ,
+            and add an .svg logo with the same name in imgs/sponsors/ .
+            `sponsor` is a JSON property. Therefore, sponsor[0] is the property's key (the sponsor name)
+            and sponsor[1] is the property's value (the sponsor's URL)
+        -->
+    {% for sponsor in blurbSponsors %}
+    <div class="sponsor-boxes col-10 col-lg-3 pt-5">
+      <div class="text-center">
+        <a href="{{ sponsor[1].link }}" target="_blank">
+          <img class="blurb-sponsor-img" src="imgs/sponsors/{{ sponsor[0] }}.svg" alt="{{ sponsor[0] }}"/>
+        </a>
+        <hr>
+        <p class="blurb">{{ sponsor[1].blurb }}</p>
+      </div>
     </div>
     {% endfor %}
   </div>
