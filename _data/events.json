@@ -230,15 +230,6 @@
       "trackcss": ""
     },
     {
-      "name": "Introduction to APIs",
-      "host": "Miguel Chevrez Lopez",
-      "startTime": "10:30am",
-      "endTime": "11:00am",
-      "description": "Learn how to use APIs to streamline your project development and build powerful apps quickly!",
-      "track": "Web Development",
-      "trackcss": "webdev"
-    },
-    {
       "name": "Influencers in Tech Panel",
       "host": "Rachel Quijano and Ariane Avendano. Participants: Jalen Veiga, Antonella Avogadro Amadei, Meggan",
       "startTime": "11:00am",
