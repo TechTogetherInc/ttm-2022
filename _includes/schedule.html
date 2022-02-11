@@ -18,9 +18,9 @@
         {{event['startTime']}}<br />-{{event['endTime']}}
       </th>
       {% if event['track'] == '' %}
-      <th class="eventName">{{event['name']}}</th>
+      <th class="eventName">{{event['name']}}<br><a href={{event['gcalLink']}} target="_blank">Add to Google Calendar</a>  |  <a href={{event['icsLink']}} target="_blank">Download ICS</a></th>
       {% else %}
-      <th class="eventName {{event['trackcss']}}">{{event['name']}}<br><em>{{event['track']}} Track</em></th>
+      <th class="eventName {{event['trackcss']}}">{{event['name']}}<br><em>{{event['track']}} Track</em><br><a href={{event['gcalLink']}} target="_blank">Add to Google Calendar</a>  |  <a href={{event['icsLink']}} target="_blank">Download ICS</a></th>
 
       {% endif %}
     </tr>
