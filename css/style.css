@@ -179,6 +179,20 @@ a.nav-link {
   margin-right: 5px;
 }
 
+body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--ttm-navy);        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--dark-navy);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid var(--ttm-navy);  /* creates padding around scroll thumb */
+}
+
 a:hover {
   text-decoration: none;
 }
